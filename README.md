@@ -1,4 +1,5 @@
 # About this project
+IT IS VERY BAD XD
 
 This is a simple mashup example that uses the
 [Slim Framework](http://www.slimframework.com/). It insults the user with
